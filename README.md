@@ -109,7 +109,7 @@ $ bash run.sh --stage 3 --ngpu 1
 
 | 이름 | GitHub | 역할 |
 |------|--------|------|
-| 최승훈 | [github.com/cshooon](https://github.com/cshooon) | 모델 학습, 음성인식 서비스 |
+| 최승훈 | [github.com/cshooon](https://github.com/shchooii) | 모델 학습, 음성인식 서비스 |
 | 강연주 | [github.com/sally7788](https://github.com/sally7788) | 발표, 모델 학습 |
 | 진민찬 | [github.com/JinMinChan](https://github.com/JinMinChan) | 데이터 전처리, 음성인식 서비스 |
 | 박율 | [github.com/Park-Yul](https://github.com/Park-Yul) | PPT 제작, 모델 학습 |
