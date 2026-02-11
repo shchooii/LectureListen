@@ -134,11 +134,9 @@ FastAPI 기반으로
 
 ## 참고
 
-- ESPnet Toolkit  
-  https://github.com/espnet/espnet
+- [ESPnet Toolkit](https://github.com/espnet/espnet)
 
-- AIHUB 한국어 대학강의 음성 데이터  
-  https://aihub.or.kr/
+- [AIHUB 한국어 대학강의 음성 데이터](https://aihub.or.kr)
 
 본 프로젝트는  
 ESPnet 기반 한국어 음성인식 학습 레시피를 활용하여  
